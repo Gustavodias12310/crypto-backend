@@ -1,6 +1,2 @@
 fastapi
-uvicorn[standard]
-python-binance
-pandas
-numpy
-ta
+uvicorn
